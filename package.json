@@ -1,0 +1,26 @@
+{
+  "name": "Dankore",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".mongorc.js",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "postcss src/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dankore/stop-tuberclosis"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dankore/stop-tuberclosis/issues"
+  },
+  "homepage": "https://github.com/dankore/stop-tuberclosis#readme"
+}
