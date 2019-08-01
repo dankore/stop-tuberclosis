@@ -1,7 +1,7 @@
 {
   "name": "dankore",
   "version": "1.0.0",
-  "description": "Stop Tuberclosis Campaign",
+  "description": "Stop Tuberculosis Campaign",
   "main": "index.html",
   "dependencies": {
     "autoprefixer": "^9.6.1",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/dankore/stop-tuberclosis"
   },
-  "keywords": ["Tuberclosis", "TB", "health", "Germany"],
+  "keywords": ["Tuberculosis", "TB", "health", "Germany"],
   "author": "Adamu M. Dankore",
   "license": "ISC"
 }
